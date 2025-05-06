@@ -1,0 +1,31 @@
+/* Stylesheet for my personal website, zac-abero.com */
+
+body, h1, h2, h3, h4, h5, h6  {
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+  }
+
+body {
+    background-color: ivory;
+}
+
+h1, h2, h3 {
+    background-color: ivory;
+    color: black;
+}
+
+p {
+    background-color: ivory;
+    color: black;
+}
+
+.right{
+    float:right
+}
+
+.left{
+    float:left
+}
+
+.menu {
+    padding-right: inherit;
+}
